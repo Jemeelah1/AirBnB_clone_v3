@@ -157,7 +157,6 @@ No known bugs at this time.
 Johnkennedy Ogu - [Github](https://github.com/mathjken)
 Jemila Ibrahim - [Github](https://github.com/Jemeelah1)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
 
